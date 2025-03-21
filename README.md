@@ -1,5 +1,6 @@
 # ✨ Full Stack Realtime Chat App ✨
 
+DEPLOYMENT LINK :- https://fullstack-chat-app-ni8j.onrender.com/
 
 Highlights:
 
